@@ -38,7 +38,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.HttpOverrides": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
